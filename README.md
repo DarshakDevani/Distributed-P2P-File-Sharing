@@ -1,5 +1,5 @@
 
-# Peer-to-Peer Group Based File Sharing System
+# Distributed Peer-to-Peer File Sharing System
 
 - The Peer-to-Peer Group Based File Sharing System is a network-based application that allows peers to share and retrieve files across multiple peers over a network. It utilizes a socket programming and client-server architecture and employs secure communication protocols for data transfer.
 
